@@ -1,0 +1,22 @@
+.baitadabba{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.locontain{
+
+    height:350px;
+    width:95%;
+    box-shadow: 3px 3px 16px rgba(0,0,0,0.7);
+    overflow:hidden;
+
+}
+
+.imgcont img{
+
+    height:100%;
+    width:100%;
+}
+
